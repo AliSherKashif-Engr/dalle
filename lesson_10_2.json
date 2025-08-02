@@ -1,0 +1,164 @@
+[
+  {
+    "type": "quiz",
+    "question": "Let's start with a quick quiz. What do you think is the difference between inpainting and outpainting?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Inpainting modifies existing parts of an image, while outpainting extends the image beyond its original boundaries",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Right! Imagine being able to expand your canvas beyond its original boundaries, revealing what lies beyond the frame. That's the magic of outpainting."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Imagine yourself as a professional photo editor. In this case, you would most likely encounter situations in which you wished you could see more of a scene or expand a tightly cropped image. Outpainting makes this possible, opening up a world of creative possibilities.\n\nIt's not just about adding more space; it's about intelligently extending the context and style of the original image."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 10 end_files/0567bb94-558d-44e9-8709-06cd16ffa645.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "quiz",
+    "question": "What real-world problem can outpainting solve for photo editors?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Expanding the canvas of a tightly cropped image",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Exactly! Outpainting is perfect for expanding tight crops, giving you more creative freedom."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Just like with inpainting, for now, you cannot directly outpaint existing images with the DALL-E integrated in ChatGPT. \n\nYou can do it on a separate DALL-E platform on the openart.ai website."
+  },
+  {
+    "type": "text",
+    "content": "Nonetheless, here's a step-by-step guide to outpainting with DALL-E:\n1. Generate an image with the ChatGPT version of DALL-E or upload it to the openart.ai platform.\n2. Choose the direction you want to expand – top, bottom, left, or right.\n3. Specify how much you want to extend the image.\n4. Provide a prompt describing what you want in the new area.\n5. DALL-E will generate the extended part, seamlessly blending it with the original image."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Let's say you're working on a fashion shoot, and you have a stunning close-up of a model wearing vintage sunglasses.\n\nThe client loves it but wants to see more of the outfit. This is where outpainting shines!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 10 end_files/6818e574-385e-4af9-ba40-23389dad8b3b.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Expanding the Image",
+    "instruction": "Expand the image to show more of the model's outfit.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Voilà! In the span of a few seconds, you have created an image of a model wearing retro glasses and then extended it to receive a better result!\n\nWhether it is an existing picture or you created a new one with DALL-E, you can use its outpainting tools to achieve your goals effortlessly."
+  },
+  {
+    "type": "text",
+    "content": "Here's another example of an image that can be enhanced with vertical expansion.\nIt was made with \"A colorful coral reef with tropical fish swimming around\" prompt."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 10 end_files/c418d3e7-030b-433d-aa27-ad0aedac521f.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Above and Below",
+    "instruction": "Now, let's see what is above and below.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "To continue achieving the best results with outpainting consistently, keep these tips in mind:\n\n1. Use similar color palettes and lighting conditions\n2. Maintain the same art style or photographic quality\n3. Consider perspective and scale when adding new elements\n4. Ensure logical continuity with the original scene\n5. The more detailed your prompts are, the better DALL-E can match your vision."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Take another example: landscape photographers often encounter scenes that don't quite fit in the frame. Below is an example of such a case."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 10 end_files/926a8ba9-a0aa-48ad-a14e-f003b03933aa.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Extending Horizontally",
+    "instruction": "Let's see how outpainting can help by expanding this picture.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "As you see, outpainting opens up a lot of doors for creativity, and here are some other ideas to spark your imagination:\n- Reveal the interior of a building from an exterior shot\n- Expand a portrait to show the subject's full environment\n- Turn a close-up nature shot into a vast landscape\n- Transform a simple product photo into an entire lifestyle scene\n\nYou can try them in your free time and push the boundaries of your outpainting skills even further!"
+  },
+  {
+    "type": "text",
+    "content": "To wrap up, you've unlocked the power of outpainting and even have ideas for continuing to develop this skill. Yet, do not limit yourself to what you covered in this lesson, and try something completely different.\n\nRemember what we learned in the previous lesson? Only imagination is a limit!"
+  },
+  {
+    "type": "text",
+    "content": "In our next lesson, we'll explore how DALL-E can be used for creating stunning patterns. You'll learn how to design packaging, textile prints, and wallpapers, turning AI creativity into market-ready visuals.\n\nGet ready to upgrade your skills!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 10 end_files/f61f0d02-23f3-4699-b4c5-e6fa374d23fd.webp",
+    "alt_text": ""
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "type": "text",
+    "content": "Let's kick off our adventure by creating our first AI image! DALL-E is now integrated into ChatGPT-4 and Bing, allowing you to convert text queries into stunning visuals. \n\nFind DALL-E in the \"Explore GPTs\" section, type your prompt in the chat, and watch the creativity flow!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 2 end_files/3c954737-c713-4066-92b4-47201f36ed49.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "As you might know, DALL-E is a text-to-image neural network that creates images based on descriptions you provide, known as prompts."
+  },
+  {
+    "type": "quiz",
+    "question": "What do you think is the most important thing about a prompt?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "It needs to have a clear subject",
+        "is_correct": false
+      },
+      {
+        "text": "It should include multiple adjectives",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The most important aspect of a prompt is that it should have a clear subject to help the AI accurately generate the desired image."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "In the realm of prompts, the subject is the main focus or central element of your description. It defines what your image will be about and sets the stage for DALL-E to work its magic.\n\nBy clearly identifying the subject, you ensure that your generated image accurately represents your vision and ideas."
+  },
+  {
+    "type": "practice_task",
+    "title": "Create a Simple AI Image",
+    "instruction": "Fill in the subject of the image",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Amazing job! You've just crafted your very first DALL-E image! It's mind-blowing how a simple prompt can spark such incredible creativity."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Get ready for our next lesson, where we'll dive deep into the art of crafting the perfect prompt!\n\nYou'll learn how to structure your ideas for even more detailed and imaginative creations."
+  },
+  {
+    "type": "text",
+    "content": "Stick around, keep exploring, and let your imagination soar with DALL-E! The possibilities are limitless, and we're just getting warmed up!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 2 end_files/01a87b96-22fc-47ec-9bb1-588d2f61da12.webp",
+    "alt_text": ""
+  }
+]

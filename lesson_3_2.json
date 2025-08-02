@@ -1,0 +1,208 @@
+[
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Here are the elements to consider when crafting your perfect prompt! Get ready to ignite your creativity!"
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Subject defines what your image will be about and sets the stage for DALL-E to work its magic."
+  },
+  {
+    "type": "practice_task",
+    "title": "Creating a Simple Subject Image",
+    "instruction": "Fill in the gap to practice generating an image with a specific subject.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Style defines the artistic flair of your image. If you have a clear vision of the style, make sure to include it in your prompt.\n\nDALL-E is not a fortune teller; it needs precise instructions to create what you envision precisely."
+  },
+  {
+    "type": "practice_task",
+    "title": "Creating an Image with a Specific Style",
+    "instruction": "Fill in the gap to practice generating an image with a specific style.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Composition defines how you frame your subject to make it stand out.\n\nThe right composition captures the essence of your subject perfectly."
+  },
+  {
+    "type": "practice_task",
+    "title": "Creating an Image with a Specific Composition",
+    "instruction": "Fill in the gap to practice generating an image with a specific composition.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Emotion defines the vibe your image should radiate.\n\nBringing emotions to life in your image can make it more engaging and relatable."
+  },
+  {
+    "type": "practice_task",
+    "title": "Capturing Emotion in an Image",
+    "instruction": "Fill in the gap to practice generating an image with a specific emotion.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "What action should your subject be performing?\n\nIncorporating action into your image can add dynamism and interest."
+  },
+  {
+    "type": "practice_task",
+    "title": "Incorporating Action in an Image",
+    "instruction": "Fill in the gap to practice generating an image with a specific action.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Let's see how well you understand the importance of proper prompts!"
+  },
+  {
+    "type": "quiz",
+    "question": "Is the prompt \"An elderly woman with hopeful eyes\" good? Why or why not?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "No, it's too vague and lacks details about style, composition, and specific emotions",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, because it includes an emotion, which is important for creating a vivid image",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The correct answer focuses on the importance of providing detailed information in a prompt. A good prompt needs to include specifics about style, composition, and emotions to help the AI create a vivid image."
+  },
+  {
+    "type": "quiz",
+    "question": "Is the prompt \"A close-up of an elderly woman with a hopeful look in her eyes in the drip paint style\" good? Why or why not?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, it includes all key elements: subject, style, composition, and emotion",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Yes, it includes all key elements: subject, style, composition, and emotion. A good prompt should provide clear and detailed information to help DALL-E generate a more vivid and accurate image."
+  },
+  {
+    "type": "quiz",
+    "question": "Which of the following prompts includes all key elements for a perfect prompt?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "A bustling city street during rush hour in a vintage photograph style",
+        "is_correct": true
+      }
+    ],
+    "explanation": "This prompt brilliantly captures the subject (city street), style (vintage photograph), composition (during rush hour), and emotion (bustling)."
+  },
+  {
+    "type": "practice_task",
+    "title": "Crafting a Perfect Prompt",
+    "instruction": "Fill in the gaps to create a detailed and effective prompt for DALL-E!",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "This is the final task. Let's test your knowledge of prompt anatomy.\n\nYou realize that the prompt \"A cat sitting on a windowsill\" is not the best."
+  },
+  {
+    "type": "quiz",
+    "question": "How would you fix the prompt 'A cat sitting on a windowsill' to make it more effective?",
+    "options": [
+      {
+        "text": "A close-up of a cat sitting on a windowsill with a serene expression in the watercolor style",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A close-up of a cat sitting on a windowsill with a serene expression in the watercolor style captures all key elements: subject, style, composition, and emotion."
+  },
+  {
+    "type": "text",
+    "content": "Congratulations! You've learned the essential elements of crafting effective prompts and practiced with DALL-E. Keep experimenting and refining your prompts to create stunning images. Good luck with your creative journey!"
+  }
+]

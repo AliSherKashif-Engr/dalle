@@ -1,0 +1,240 @@
+[
+  {
+    "type": "quiz",
+    "question": "Which prompt shows the best use of DALL-E for creating a realistic product image?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Generate a close-up shot of a sleek smartphone on a marble countertop with soft, diffused studio lighting, resembling a professional product photograph",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The prompt includes specific details about the subject, setting, lighting, and style, making it ideal for creating a realistic product image."
+  },
+  {
+    "type": "quiz",
+    "question": "How can you effectively use inpainting to enhance an image?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Remove unwanted objects and fill the space with contextually appropriate elements that blend seamlessly with the rest of the image",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Inpainting is used to remove unwanted objects and fill the space with elements that fit the context of the image."
+  },
+  {
+    "type": "quiz",
+    "question": "What is a practical application of outpainting?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Expanding the canvas of a tightly cropped image to reveal more of the scene and provide additional context",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Outpainting is used to expand tight crops and reveal more of the scene, providing additional context and enhancing the overall image."
+  },
+  {
+    "type": "quiz",
+    "question": "Which prompt best applies color theory to evoke a specific mood?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Generate a vibrant cityscape with various colors to create a lively and energetic atmosphere",
+        "is_correct": false
+      },
+      {
+        "text": "Create an image of a calm forest scene at dawn with cool blue and green tones to evoke tranquility and peace",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Applying color theory involves choosing colors that evoke specific emotions, such as cool tones for tranquility."
+  },
+  {
+    "type": "quiz",
+    "question": "How can you adapt an image for a LinkedIn post to promote a tech startup?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Transform the cityscape image with a futuristic overlay and add the text \"Connecting Tomorrow's Cities\" in a style that suggests innovation and forward-thinking",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Using a futuristic overlay and text that suggests innovation aligns with LinkedIn's professional context and effectively promotes a tech startup."
+  },
+  {
+    "type": "quiz",
+    "question": "How can you ensure custom stylization is applied consistently across a series of images?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Use a style template and apply the same elements and rules to each image in the series to maintain a consistent visual identity",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Using a style template and consistently applying the same elements ensures a cohesive and recognizable style across a series of images."
+  },
+  {
+    "type": "quiz",
+    "question": "How can you enhance the realism of a product image created with DALL-E?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Avoid adding any specific details or textures to keep the image abstract",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Add reflections and shadows, specify materials, and include environmental context to make the image more lifelike",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Realism in images is achieved through detailed elements like reflections, shadows, and material textures."
+  },
+  {
+    "type": "quiz",
+    "question": "Which prompt is best for creating a repeatable pattern for commercial use?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Generate a seamless geometric pattern with gradient-filled rectangles in earth tones that can be easily tiled",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "A seamless geometric pattern with consistent shapes and colors ensures repeatability and suitability for commercial use."
+  },
+  {
+    "type": "quiz",
+    "question": "Which prompt best showcases the use of both inpainting and outpainting techniques?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Edit the landscape image by removing the trash can and extending the scene to the left to reveal more of the forest while maintaining the original style",
+        "is_correct": true
+      }
+    ],
+    "explanation": "This prompt effectively uses inpainting to remove an unwanted element and outpainting to extend the scene, demonstrating both techniques."
+  },
+  {
+    "type": "quiz",
+    "question": "How can you effectively use advanced prompt techniques to create a custom-styled image series?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Start with a style template and apply it to each image, incorporating specific elements and details",
+        "is_correct": false
+      },
+      {
+        "text": "Use generic prompts for each image without focusing on style or details to maintain flexibility",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Creating a custom-styled image series requires a consistent approach, using a template to apply specific elements and details across all images."
+  },
+  {
+    "type": "text",
+    "content": "Congratulations on completing the prompt library quiz! Your ability to create detailed prompts for DALL-E is now stronger than ever."
+  },
+  {
+    "type": "text",
+    "content": "Stay tuned for the next lesson, where we'll explore advanced professional applications and copyright compliance. Keep up the great work!"
+  }
+]

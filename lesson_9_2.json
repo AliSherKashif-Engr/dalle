@@ -1,0 +1,202 @@
+[
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Inpainting is a powerful technique that allows you to edit specific parts of an image while keeping the rest intact. \n\nIt's like having a magic paintbrush that understands what you want to create."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesso no 9 end_files/4d16d345-b762-42a7-b05a-9ebc4c7ced5f.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Unlike traditional editing tools where you're manually painting or cloning, inpainting with DALL-E 3 uses AI to understand the context of your image and generate new content that fits seamlessly.\n\nIt's not just copying pixels; it's creating new, contextually appropriate elements."
+  },
+  {
+    "type": "text",
+    "content": "However, it is important to note that the current version of DALL-E 3 integrated into ChatGPT can't directly edit uploaded images. Instead, it can edit the images it has generated. \n\nTo edit uploaded images, you can use the separate version available on the OpenArt website (openart.ai). Editing instructions are the same for both versions."
+  },
+  {
+    "type": "quiz",
+    "question": "Which practical applications do you think inpainting in DALL-E has?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "All of these",
+        "is_correct": false
+      },
+      {
+        "text": "Removing unwanted objects from photos",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Not quite. While the option you chose is indeed an application of inpainting, it's not the only one. Inpainting in DALL-E can be used for all of these tasks, as they all involve modifying specific areas within an image."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Here's how inpainting works with DALL-E 3 in ChatGPT:\n\n1. Generate an initial image using a prompt\n2. Pick one of the images created by DALL-E, press a brush icon and choose area that you want to edit.\n3. Input a prompt to edit the chosen area, and DALL-E 3 will generate a new version of the image.\n\nLet's see if you can do all these steps by yourself."
+  },
+  {
+    "type": "practice_task",
+    "title": "Creating an Initial Image",
+    "instruction": "Imagine you need to create an image of a model. Let's do it.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "practice_task",
+    "title": "Removing Objects with DALL-E",
+    "instruction": "Once you generate an image, you notice a trash bin that spoils it. So, you need to choose the area to edit with a brush and input a prompt to change it.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "practice_task",
+    "title": "Changing Backgrounds With DALL-E",
+    "instruction": "To see how you can change backgrounds, let's generate an image of a house.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "practice_task",
+    "title": "Changing Backgrounds With DALL-E",
+    "instruction": "Now, let's change the weather to create a more vibrant and appealing scene:",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now, let's assume you are a product designer, and you created a product image with this prompt:\n\n\"A classic leather armchair in dark brown, positioned in a minimalist living room with soft ambient lighting\""
+  },
+  {
+    "type": "image",
+    "image_url": "./lesso no 9 end_files/d705020b-ab0f-4e67-a895-726eb50ad361.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Modifying Products",
+    "instruction": "After creating an image, you decided you want it to change the product's color, so let's do it with DALL-E.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Just like you can remove objects with DALL-E, it allows you to add new elements to the images you created. Let's look at what can be done with this picture."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesso no 9 end_files/cafe3564-4661-4694-b07c-3ad701cfbb4a.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Adding Elements",
+    "instruction": "Add a new element to the scene.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Inpainting in DALL-E isn't just about editing content; it's also a powerful tool for improving composition. For example, by applying classic photography rules like the Rule of Thirds or the Golden Ratio, you can enhance the visual appeal of your images.\n\nDALL-E can reposition subjects, adjust framing, or add elements to create more balanced and engaging compositions. This feature is particularly useful for optimizing images for different platforms or improving the focal point of a scene."
+  },
+  {
+    "type": "practice_task",
+    "title": "Applying Rule of Thirds",
+    "instruction": "Let's create an initial image that we'll improve using the Rule of Thirds.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in The Gap!",
+    "instruction": "Now, let's apply the Rule of Thirds to our image.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Apart from what we covered here, DALL-E offers a myriad of inpainting possibilities. Here are some of them to explore:\n\n1. Changing facial expressions or poses in portraits\n2. Altering clothing styles or adding accessories to figures\n3. Modifying the time of day in landscapes\n4. Transforming architectural styles of buildings\n5. Changing seasons in nature photographs"
+  },
+  {
+    "type": "quiz",
+    "question": "Now, given what we covered in this lesson, which prompt would you choose to receive a good inpainting result?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "\"In the portrait of a young woman, change her neutral expression to a warm smile. Adjust the lighting to create a soft, golden glow on her face, and add a pair of elegant earrings to complement her features.\"",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Excellent choice! This prompt is highly specific and descriptive, addressing multiple aspects of inpainting we covered: changing facial expressions, adjusting lighting, and adding accessories. It provides clear guidance for DALL-E to produce a well-defined inpainting result."
+  },
+  {
+    "type": "text",
+    "content": "The most important thing to remember is that practice is crucial in mastering inpainting. The more you experiment, the better you'll become at crafting prompts that yield amazing results.\n\nDon't be afraid to push boundaries and try new things!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesso no 9 end_files/605b8ff3-8b76-4585-8e48-9a30c5c884a4.webp",
+    "alt_text": ""
+  }
+]

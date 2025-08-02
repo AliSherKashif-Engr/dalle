@@ -1,0 +1,185 @@
+[
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Custom stylization with DALL-E allows you to achieve consistent, efficient, and creative professional designs that are crucial for:\n\n1. Creating consistent marketing materials for a product launch and building brand identity\n2. Designing a cohesive set of illustrations for a book or magazine\n3. Developing a unique visual style for a video game or animation project\n4. Crafting a series of themed social media posts for a brand campaign"
+  },
+  {
+    "type": "quiz",
+    "question": "How do you think why consistent style is important in professional design?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "It helps establish brand recognition",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Exactly! Consistent style helps create a memorable brand identity that consumers can easily recognize."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Before we craft our prompts, let's review some key artistic styles, the first of which is the Art Nouveau style.\n\nArt Nouveau is characterized by organic forms and flowing lines, which makes it perfect for branding beauty and cosmetic products, visualization of jewelry design, and vintage-inspired posters. Here is an example of an Art Nouveau-style poster for a summer music festival:"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 13 end_files/79a6599e-469d-4645-97b4-c64e8f9a1894.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Bauhaus, known for geometric shapes and primary colors, is ideal for:\n- Modern furniture design concepts\n- Minimalist logo creation\n- Educational material illustrations\n\nHere's a Bauhaus-inspired logo for a tech startup that was made with DALL-E."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 13 end_files/3049ad0e-eabc-47c8-8186-9859c7baf4cc.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Cyberpunk, with its futuristic urban settings and neon colors, works well for:\n- Sci-fi book covers\n- Video game environment design\n- Futuristic product concepts\n\nThis is an example of a futuristic smartphone screen in the Syberpunk style:"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 13 end_files/448b2f7d-ee8e-443f-985c-a7d3bce6f181.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Vaporwave, known for its pastel colors and 1980s/90s aesthetics, is excellent for:\n- Retro-inspired marketing campaigns\n- Music album covers\n- Nostalgic product designs"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 13 end_files/7b27796a-f531-41f6-a210-c02f96cd33a7.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Minimalism, characterized by simplicity and negative space, is perfect for:\n- Modern logo design\n- Clean user interface designs\n- Sophisticated product packaging"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 13 end_files/df6f0187-1fc8-45e8-acf9-e341ad9d5bb3.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now that you are familiar with some of the key artistic styles, you are about to create a series of images in a consistent style, starting with a style template.\n\nThis template will serve as the foundation for all images in the series. We'll use Cyberpunk as our example style."
+  },
+  {
+    "type": "practice_task",
+    "title": "Style Template",
+    "instruction": "Try crafting a Cyberpunk-style template.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now that we have our style template, let's apply it to create a series of images for a fictional cyberpunk-themed mobile game."
+  },
+  {
+    "type": "practice_task",
+    "title": "Fill in The Gap!",
+    "instruction": "Create the first image in our series - the game's protagonist.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "practice_task",
+    "title": "Next Step!",
+    "instruction": "Create the second image in our series - a key location.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "practice_task",
+    "title": "Create the Next Image!",
+    "instruction": "Create the third image in our series - a futuristic vehicle.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "practice_task",
+    "title": "Let's Generate the Fourth!",
+    "instruction": "Create the fourth image in our series - a high-tech gadget.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Well done! You've created a cohesive Cyberpunk-styled image series using a consistent template. This skill is crucial for professional projects, ensuring unified design across various elements.\n\nAs you practice, try templates for other styles we've discussed. Each will offer new challenges, helping you refine your custom stylization skills."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "In our next lesson, we'll explore fine-tuning and customizing images for social media posts.\n\nYou'll learn how to adapt your DALL-E creations for various platforms, ensuring maximum impact and engagement. Keep practicing!"
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "type": "text",
+    "content": "We challenged DALL-E to create an image of a Ferrari sports car speeding through a futuristic city in a cyberpunk style."
+  },
+  {
+    "type": "text",
+    "content": "And wow, just look at what we received - an incredible first draft that truly captures the essence of speed and innovation!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 5 end_files/5eeb36c6-e79a-4265-b727-fd318d0a57f0.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "But let's be real - we know we can take this to the next level! So, let's roll up our sleeves and dive into some exciting editing and refinement to make this masterpiece shine even brighter!"
+  },
+  {
+    "type": "text",
+    "content": "First up: colors! Let's add bright shades that stand out on the canvas, making our image eye-catching and grabbing the viewer's attention like never before."
+  },
+  {
+    "type": "practice_task",
+    "title": "Enhancing Colors",
+    "instruction": "Fill in the gaps to make the image more colorful.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Awesome! We've got a vibrant image now.\n\nLet's pump up the excitement by adjusting the size to perfectly fit our needs!"
+  },
+  {
+    "type": "practice_task",
+    "title": "Adjusting the Size",
+    "instruction": "Fill in the gaps to change the size of the image.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Don't you think that if you change the position of a yellow logo a little to the back, it might enhance the composition?"
+  },
+  {
+    "type": "text",
+    "content": "However, DALL-E will change the whole picture when you enter the prompt, and we don't want to change the whole picture."
+  },
+  {
+    "type": "text",
+    "content": "So we have another solution. Using the select function, which opens when you zoom in on the image, select the object's position in the image, and ask DALL-E to add some detail there."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 5 end_files/36f2f941-cd8e-4e51-a1e6-e18a2faa3f91.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "practice_task",
+    "title": "Changing the Position",
+    "instruction": "Fill in the gaps to change the position of an object in the image.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "All right, now let's change the background a little bit to make it even more interesting. Adding a themed background can completely transform the feel of your image."
+  },
+  {
+    "type": "practice_task",
+    "title": "Changing the Background",
+    "instruction": "Fill in the gaps to change the background of the image.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Amazing! You've just learned how to enhance colors, adjust sizes, reposition elements, and change backgrounds to refine your DALL-E images.\n\nNow, it is time to test your knowledge!"
+  },
+  {
+    "type": "quiz",
+    "question": "Why is the prompt \"Create an image of a Ferrari sports car speeding through a futuristic city in a cyberpunk style\" considered effective?",
+    "options": [
+      {
+        "text": "It includes specific details about the subject, action, style, and composition",
+        "is_correct": false
+      },
+      {
+        "text": "It describes the car's color but lacks details about the setting and style",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The correct answer highlights the importance of providing detailed information about the subject, action, style, and composition to help DALL-E create a vivid image."
+  },
+  {
+    "type": "quiz",
+    "question": "How does enhancing colors to make them more vibrant and eye-catching affect the overall image?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the image more visually appealing and grabs the viewer's attention",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Enhancing colors makes the image more visually appealing and grabs the viewer's attention. Vibrant colors can make an image stand out and be more engaging."
+  },
+  {
+    "type": "quiz",
+    "question": "Why might you choose to resize an image to a 1:1 aspect ratio?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "To create a square image that fits well on various social media platforms",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Resizing to a 1:1 aspect ratio creates a square image that fits well on various social media platforms. Square images are versatile and commonly used online."
+  },
+  {
+    "type": "quiz",
+    "question": "When changing the position of an object in an image, why might you use the select function instead of entering a new prompt?",
+    "options": [
+      {
+        "text": "To avoid altering the entire image and focus on adjusting a specific element",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "To refine the placement while maintaining the overall composition",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The select function allows you to avoid altering the entire image and focus on adjusting a specific element. This helps in making precise changes without starting over."
+  },
+  {
+    "type": "text",
+    "content": "Great job on mastering this lesson! \n\nNext up, we’ll dive into color theory to take your images to the next level. See you there!"
+  }
+]

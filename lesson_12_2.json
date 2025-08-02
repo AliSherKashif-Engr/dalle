@@ -1,0 +1,186 @@
+[
+  {
+    "type": "quiz",
+    "question": "Let's see what you know about the topic. Tell me, what is NOT a practical application of AI-generated realistic images?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "Creating realistic physical objects",
+        "is_correct": true
+      }
+    ],
+    "explanation": "That's right! While AI can create realistic images, it can't physically manufacture objects."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Creating realistic images with AI isn't just about showing off technical skills. It has practical applications across various industries, from product visualization to architectural rendering and even in fields like forensic science or medical imaging.\n\nThe goal is to produce images that are indistinguishable from photographs, opening up new possibilities for visualization and design."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 12 end_files/3e8ae8f4-8d12-4d48-9b10-f31c8b3390b4.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Crafting hyper-realistic images with DALL-E is all about the details in your prompt. Here are key elements to include:\n\n1. Specific subject description\n2. Lighting conditions\n3. Camera settings (e.g., focal length, depth of field)\n4. Environmental details\n5. Texture and material specifications\n6. Photographic style references"
+  },
+  {
+    "type": "quiz",
+    "question": "Based on the information above, which prompt would you choose to create a realistic image with DALL-E?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "\"Produce a close-up portrait of an elderly fisherman with weathered skin, shot with an 85mm lens. Use soft, diffused natural lighting from a nearby window. Capture the texture of his wool sweater and the salty sea air environment. Style should resemble the documentary photography of Steve McCurry.\"",
+        "is_correct": true
+      }
+    ],
+    "explanation": "Excellent choice! This prompt includes specific subject description, lighting conditions, camera settings, environmental details, texture specifications, and a photographic style reference - all key elements for crafting a hyper-realistic image with DALL-E."
+  },
+  {
+    "type": "practice_task",
+    "title": "Starting Simple: Basic Image Generation",
+    "instruction": "Before creating hyper-realistic images, let's start with a basic prompt to help us appreciate the journey from simple to sophisticated results.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "practice_task",
+    "title": "Adding Realism",
+    "instruction": "Now, let's see the difference with a much more sophisticated prompt.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "To push your DALL-E creations towards maximum realism, consider these advanced techniques:\n\n1. Specify imperfections (e.g., slight scratches, dust, fingerprints)\n2. Include reflections and shadows\n3. Mention specific brands or models for reference\n4. Describe subtle color variations\n5. Add context-appropriate background elements"
+  },
+  {
+    "type": "practice_task",
+    "title": "Adding Details",
+    "instruction": "Let's enhance our previous product image for even more realism.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "While DALL-E can create impressively realistic images, it's important to understand the spectrum of realism. On the one hand, we have photorealistic images that closely resemble photographs. \n\nOn the other end, we have hyper-real images that might appear even more detailed than reality. The key is knowing when to dial it up or down based on your needs."
+  },
+  {
+    "type": "quiz",
+    "question": "What characterizes a hyper-real image compared to a photorealistic one?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "It has exaggerated details and clarity",
+        "is_correct": true
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "Right! Hyper-real images often feature enhanced details and clarity that go beyond what we typically see in photographs."
+  },
+  {
+    "type": "practice_task",
+    "title": "Creating a Hyper-Realistic Image",
+    "instruction": "Let's craft a prompt to generate a hyper-realistic image that pushes beyond normal photorealism.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "While DALL-E can create incredibly realistic images, it's important to understand its limitations. Current AI models may struggle with:\n\n1. Consistent text rendering\n2. Complex reflections and transparencies\n3. Anatomically perfect human features\n4. Physically accurate shadows in complex scenes\n\nBeing aware of these limitations helps you work around them and achieve the best possible results."
+  },
+  {
+    "type": "practice_task",
+    "title": "Another Example",
+    "instruction": "Let's create one more prompt that works within DALL-E's strengths for realism.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now, as you've learned the ins and outs of creating realistic images with DALL-E, make sure to remember:\n\n1. Be specific and detailed in your prompts\n2. Consider lighting, camera settings, and environmental factors\n3. Add subtle imperfections for increased realism\n4. Work within DALL-E's strengths."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Congratulations on mastering the art of realistic image creation with DALL-E! You've added a powerful tool to your creative arsenal and completed the \"Creative Techniques with DALL-E\" unit!\n\nHowever, your journey doesn't end here. Our next unit, \"DALL-E for Professional Use,\" will teach you how to integrate these skills into professional workflows. We'll explore using DALL-E for custom stylization and fine-tuning and dive deeper into commercial use and copyright compliance. Stay tuned!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 12 end_files/f8ba18a0-e07f-412f-bbee-9fe227616045.webp",
+    "alt_text": ""
+  }
+]

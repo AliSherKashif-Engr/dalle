@@ -1,0 +1,148 @@
+[
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "As you've already mastered the basics of DALL-E, from creating your first AI image to understanding prompt anatomy, it's time to elevate your skills and learn how to craft prompts that result in truly exceptional images.\n\nSo, one of the most powerful tools in your DALL-E toolkit is what we call \"quality boosters.\" These are specific phrases and techniques that enhance the quality, clarity, and style of your generated images."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 8 end_files/ab34297f-1743-41b0-b8b8-63e359c1ec6a.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Quality boosters are like secret ingredients in your prompt recipe. They're specific words or phrases that guide DALL-E to create more refined, detailed, and stylistically rich images. When used correctly, they can transform a good image into an extraordinary one.\n\nLet's dive into some key types of quality boosters and how to use them effectively!"
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Lighting can make or break an image. By specifying the type of lighting in your prompt, you can dramatically alter the mood and feel of your generated image. \n\nPhrases like \"cinematic lighting,\" \"golden hour,\" or \"soft diffused light\" are some of the examples that you can use."
+  },
+  {
+    "type": "practice_task",
+    "title": "Lighting Example",
+    "instruction": "Fill in the gap to try adding a lighting descriptor to your prompt.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Next, the viewpoint from which an image is \"taken\" can significantly change impact.\n\nIncorporating terms like \"close-up,\" \"bird's-eye view,\" or \"wide-angle shot\" can help DALL-E create more dynamic compositions."
+  },
+  {
+    "type": "practice_task",
+    "title": "Camera Angle Example",
+    "instruction": "Let's look at how you can set a desired camera angle",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Another important thing: don't just describe what something is; describe what it's made of. \n\nWords like \"leather,\" \"denim,\" \"silk,\" \"weathered,\" or \"glossy\" add depth and realism to your prompts, resulting in more tactile and visually interesting images."
+  },
+  {
+    "type": "practice_task",
+    "title": "Material and Texture Example",
+    "instruction": "See how including material and texture specifications can affect your result.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "While you've explored artistic styles before, using them as quality boosters can elevate your images to new heights. Phrases like \"in the style of Andy Warhol\" or \"resembling a Norman Rockwell painting\" can yield fascinating and unique results."
+  },
+  {
+    "type": "practice_task",
+    "title": "Artistic Style Example",
+    "instruction": "Fill in the gap to add an artistic style.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "What can make your prompt more evocative? Injecting feeling into them. \n\nUse words like \"nostalgic,\" \"energetic,\" or \"melancholic\" to set the emotional tone of your image."
+  },
+  {
+    "type": "practice_task",
+    "title": "Emotion and Mood Example",
+    "instruction": "See how adding mood can impact a generated image.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Last but not least, Incorporating photography jargon can lead to more professional-looking results.\n\nConsider using terms like \"HDR\" or \"long exposure\" to add a level of sophistication to your images."
+  },
+  {
+    "type": "practice_task",
+    "title": "Technical Photography Example",
+    "instruction": "Here's an example of how you can add some technical photography jargon to professionalize your image.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "As you have seen, the power of boosters is truly impressive. Yet, remember, the key to mastering these techniques is practice and experimentation.\n\nDon't be afraid to combine multiple quality boosters in a single prompt. Sometimes, unexpected combinations can yield the most stunning results."
+  },
+  {
+    "type": "text",
+    "content": "In our upcoming lessons, we'll explore even more exciting techniques, and you'll uncover a lot more DALL-E's capabilities. Stay curious, and most importantly, have fun with it!\n\nThe world of AI-generated imagery is vast and full of possibilities, and I can't wait to see what you create next."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 8 end_files/c7a1e7bf-350e-4ccd-b3dd-99032a9c3779.webp",
+    "alt_text": ""
+  }
+]

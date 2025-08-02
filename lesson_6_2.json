@@ -1,0 +1,174 @@
+[
+  {
+    "type": "text",
+    "content": "Color isn't just pretty; it's a powerful tool that can stir emotions, set vibes, and add incredible depth to your images!\n\nBy understanding color theory, you'll be empowered to make savvy choices about the colors that will light up your DALL-E prompts."
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Let's kick things off with the essentials! The color wheel is your best friend - it's a visual delight that showcases colors arranged by their relationships.\n\nPrimary colors (red, blue, yellow) are your building blocks, while secondary colors (green, orange, purple) spring to life when you mix those primaries.\n\nAnd let's not forget tertiary colors, which are crafted by blending primary and secondary colors!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 6 end_files/87b7a732-0595-496d-82b7-d2c4604cb038.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "Complementary colors sit opposite each other on the wheel and create a stunning contrast that makes each hue pop with vibrancy!\n\nOn the other hand, analogous colors, nestled next to each other, create a beautiful harmony.\n\nAnd for those looking for balance and flair, triadic colors are evenly spaced around the wheel, offering a lively and balanced palette."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 6 end_files/feca288e-5ab4-4393-a0c9-a0327fbf4a97.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now, it's time to unleash color theory in your DALL-E prompts! As you craft your prompts, think about the mood you want to evoke.\n\nThe colors you choose will be the game-changer!"
+  },
+  {
+    "type": "practice_task",
+    "title": "Creating a Serene Image",
+    "instruction": "Fill in the gaps to create a prompt that uses color theory for a calming effect.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Get ready to explore the vibrant world of complementary colors!\n\nBy harnessing the power of complementary colors, you can make your image burst with life and energy, creating an exhilarating sense of excitement that draws everyone in."
+  },
+  {
+    "type": "practice_task",
+    "title": "Creating a Dynamic Image",
+    "instruction": "Fill in the gaps to create a prompt that uses complementary colors for a vibrant effect.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Analogous colors can create a soothing and harmonious look. They are great for images that need a cohesive and tranquil feel."
+  },
+  {
+    "type": "practice_task",
+    "title": "Creating a Harmonious Image",
+    "instruction": "Fill in the gaps to create a prompt that uses analogous colors for a cohesive effect.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Ready for something a bit more bold and balanced? Triadic colors can bring a vibrant and dynamic feel to your image while maintaining harmony."
+  },
+  {
+    "type": "practice_task",
+    "title": "Creating a Bold Image",
+    "instruction": "Fill in the gaps to create a prompt that uses triadic colors for a vibrant effect.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now, let's get more specific. Different colors can evoke different emotions and moods.\n\nFor example, blue can create a sense of calm and trust, while red can evoke passion and excitement."
+  },
+  {
+    "type": "text",
+    "content": "Let's try creating an image that uses color to convey a specific mood."
+  },
+  {
+    "type": "practice_task",
+    "title": "Creating an Emotional Image",
+    "instruction": "Fill in the gaps to create a prompt that uses color to evoke a specific mood.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Awesome! You've just crafted a vibrant, dynamic image that perfectly captures the mood we were aiming for!"
+  },
+  {
+    "type": "text",
+    "content": "Now, let's put your skills to the test with a quick quiz and see if you've truly mastered these concepts. Get ready to shine!"
+  },
+  {
+    "type": "quiz",
+    "question": "Why are complementary colors effective in creating vibrant and eye-catching images?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "They are next to each other on the color wheel, creating a harmonious look",
+        "is_correct": false
+      },
+      {
+        "text": "They are opposite each other on the color wheel, creating a high contrast that makes each color appear more vibrant",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The correct answer focuses on the high contrast created by complementary colors, which makes them stand out and create vibrant images."
+  },
+  {
+    "type": "quiz",
+    "question": "What is the benefit of using analogous colors in an image?",
+    "options": [
+      {
+        "text": "They create a high contrast, making each color appear more vibrant",
+        "is_correct": false
+      },
+      {
+        "text": "They create a soothing and harmonious look",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The correct answer focuses on the harmonious effect created by colors next to each other on the color wheel."
+  },
+  {
+    "type": "text",
+    "content": "Congratulations, artist! You've unlocked the secrets of color theory in your DALL-E prompts, enabling you to craft breathtaking and emotionally captivating images."
+  },
+  {
+    "type": "text",
+    "content": "Get ready for our next thrilling lesson! We're about to dive deep into the composition. Until we meet again, keep the creativity flowing and explore the endless possibilities with DALL-E!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 6 end_files/e4849665-6bcd-4924-b606-d1171fbb9f9c.webp",
+    "alt_text": ""
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "type": "text",
+    "content": "Guess what? You have an amazing adventure waiting for you! The gallery of digital paintings is hosting an exciting exhibition centered around our beloved feline friends - dogs and cats!"
+  },
+  {
+    "type": "text",
+    "content": "You've got the chance to showcase multiple paintings and even sell your incredible artwork. Generating images of cats in various styles is just the beginning!\n\nTo make your paintings shine like stars, let's focus on the powerful art of composition!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 7 end_files/8425d1c0-9113-4073-ab6f-6a8ae09c74bb.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Now, let's kick things off by exploring the magic of angles! Angles can add a burst of drama, intrigue, and a fresh perspective to your artwork."
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 7 end_files/7905988a-1ebb-4b4d-8f40-40f220b54f03.webp",
+    "alt_text": ""
+  },
+  {
+    "type": "text",
+    "content": "For instance, a high angle might make your subject appear small and vulnerable, while a low angle can project power and dominance.\n\nAnd don't forget the interesting Dutch angles - those tilted shots that can give your work a lively, unique feel! Let's make your artwork memorable!"
+  },
+  {
+    "type": "practice_task",
+    "title": "Creating a Cat Image with a Specific Angle",
+    "instruction": "Fill in the gaps to generate an image of a cat using a specific angle and style.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Awesome! Now, let's dive into the fascinating world of perspectives!"
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "Imagine how a bird's-eye view can sweep you off your feet, offering an expansive and elevated perspective that makes everything look grand and breathtaking.\n\nOn the flip side, a worm's-eye view gives you the thrill of looking up at your subject, transforming it into something awe-inspiring and powerful."
+  },
+  {
+    "type": "text",
+    "content": "Each perspective tells a unique story, and exploring them can completely change how we see the world around us. So, are you ready to unleash your creativity and see your subjects in a whole new light? Let's go!"
+  },
+  {
+    "type": "practice_task",
+    "title": "Creating a Cat Image with a Specific Perspective",
+    "instruction": "Fill in the gaps to generate an image of a cat using a specific perspective and style.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "heading",
+    "title": "",
+    "content": null,
+    "image_url": null
+  },
+  {
+    "type": "text",
+    "content": "This crucial element defines the proportions of your image and can make all the difference in how it's perceived."
+  },
+  {
+    "type": "text",
+    "content": "With DALL-E, you have three thrilling options - square, widescreen, and vertical - each offering a unique way to showcase your creativity."
+  },
+  {
+    "type": "text",
+    "content": "Here's a tip for you at this moment: it is always best to define the aspect ratio in the first prompt."
+  },
+  {
+    "type": "practice_task",
+    "title": "Creating a Cat Image with a Specific Aspect Ratio",
+    "instruction": "Fill in the gaps to generate an image of a cat using a specific aspect ratio and style.",
+    "task_type": "fill_in_the_gap",
+    "skipped": true
+  },
+  {
+    "type": "text",
+    "content": "Time to test your knowledge!"
+  },
+  {
+    "type": "quiz",
+    "question": "Why would you use a high angle in an image?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "To make the subject appear powerful and dominant",
+        "is_correct": false
+      },
+      {
+        "text": "To make the subject appear small and vulnerable",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The correct answer focuses on the perception created by different angles. A high angle makes the subject appear small and vulnerable."
+  },
+  {
+    "type": "quiz",
+    "question": "What is the effect of using a bird's-eye view perspective in an image?",
+    "options": [
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "It gives a broad and elevated perspective",
+        "is_correct": false
+      },
+      {
+        "text": "",
+        "is_correct": false
+      },
+      {
+        "text": "It looks up at the subject, making it appear grand and imposing",
+        "is_correct": false
+      }
+    ],
+    "explanation": "The correct answer focuses on the overall view provided by different perspectives. A bird’s-eye view gives a broad and elevated perspective."
+  },
+  {
+    "type": "text",
+    "content": "Congratulations! You've unlocked the secrets of angles, perspectives, and aspect ratios to elevate your compositions!\n\nThese powerful tools are your ticket to crafting stunning, one-of-a-kind images that truly stand out from the crowd."
+  },
+  {
+    "type": "text",
+    "content": "Keep pushing your creative boundaries, and let your imagination soar with DALL-E!"
+  },
+  {
+    "type": "image",
+    "image_url": "./lesson no 7 end_files/7198be3b-3a1b-470d-b014-3159de157bc7.webp",
+    "alt_text": ""
+  }
+]
