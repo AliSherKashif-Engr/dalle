@@ -1,11 +1,17 @@
 [
+   {
+    "type": "heading",
+    "title": "Creating Realistic Images with DALL-E",
+    "content": null,
+    "image_url": null
+  },
   {
     "type": "text",
     "content": "Welcome back! You've made it to the final lesson of this unit, where we'll explore the fascinating world of hyper-realism with DALL-E. \n\nIn this lesson, you'll learn how to craft stunningly realistic images that might just make you do a double-take. Let's blur the line between AI and reality!"
   },
   {
     "type": "image",
-    "image_url": "./lesson no 12_files/285fc86a-6247-4ec7-9fc5-c5fc5a460355.webp",
+    "image_url": "./c.webp",
     "alt_text": ""
   }
 ]
