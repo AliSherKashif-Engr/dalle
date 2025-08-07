@@ -1,4 +1,10 @@
 [
+ {
+    "type": "heading",
+    "title": "Inpainting Basics with DALL-E 3",
+    "content": null,
+    "image_url": null
+  },
   {
     "type": "text",
     "content": "As you've started learning advanced prompt techniques, it's time to take your skills to the next level with inpainting. This feature opens up a whole new world of possibilities for image editing and creation.\n\nSo, Leroy here again to introduce you to the world of inpainting with DALL-E 3.\nLet's start!"
